@@ -1,0 +1,19 @@
+{
+    "name": "fabric.hx",
+    "url": "https://github.com/varadig/siphx",
+    "license": "MIT",
+    "tags": [
+      "js",
+      "drawing",
+      "canvas",
+      "fabric"
+    ],
+    "description": "Haxe externs of Fabric.js canvas drawing library",
+    "version": "0.0.1",
+    "classPath": "src/",
+    "releasenote": "",
+    "contributors": [
+      "varadig"
+    ],
+    "dependencies": {}
+  }
